@@ -12,7 +12,7 @@ two-digit number, add up the two digits to get a single-digit number (like for 1
 Step 2. Now add all single-digit numbers from Step 1.
 
 
-Step 3. Add all digits in the even from left  to right  in the card number.
+Step 3. Add all digits at the even indexes  from left  to right  in the card number.
 
 
 Step 4. Sum the results from Step 2 and Step 3.
